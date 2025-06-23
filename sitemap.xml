@@ -1,0 +1,86 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- URL Entry for Homepage -->
+  <url>
+    <loc>https://elhassan-dyer.com/</loc>
+    <lastmod>2025-01-09</lastmod>
+
+    <!-- Image 1: Homepage -->
+    <image:image>
+      <image:loc>https://elhassan-dyer.com/img/kuwait-home-finishing-painting-service.png</image:loc>
+      <image:caption>دهانات وتشطيبات المنازل في الكويت مع أفضل صباغ متخصص في تنفيذ جميع أنواع
+        الدهانات بتصاميم حديثة</image:caption>
+      <image:title>خدمة تشطيبات المنازل والدهانات المبتكرة في الكويت - صباغ محترف</image:title>
+    </image:image>
+
+    <!-- Image 2: Homepage -->
+    <image:image>
+      <image:loc>https://elhassan-dyer.com/img/best-painter-kuwait.png</image:loc>
+      <image:caption>أفضل صباغ بالكويت يقدم خدمات دهانات عالية الجودة مع ضمان الأسعار المناسبة</image:caption>
+      <image:title>أفضل صباغ بالكويت - تشطيبات احترافية وضمان الجودة</image:title>
+    </image:image>
+
+    <!-- Image 3: Homepage -->
+    <image:image>
+      <image:loc>https://elhassan-dyer.com/img/painter-kuwait-advertisement.png</image:loc>
+      <image:caption>إعلان عن خدمات الدهانات في الكويت بأسعار مخفضة وجودة لا تضاهى</image:caption>
+      <image:title>دهانات احترافية في الكويت - أسعار تنافسية وعروض خاصة</image:title>
+    </image:image>
+  </url>
+
+  <!-- URL Entry for Best Dyer Page -->
+  <url>
+    <loc>https://elhassan-dyer.com/best.html</loc>
+    <lastmod>2025-01-09</lastmod>
+
+    <!-- Image 1: Best Dyer -->
+    <image:image>
+      <image:loc>https://elhassan-dyer.com/img/kuwait-home-finishing-painting-service.png</image:loc>
+      <image:caption>أفضل صباغ بالكويت لتشطيبات المنازل بأسلوب عصري وخبرة طويلة في مجال الدهانات</image:caption>
+      <image:title>أفضل خدمات صباغة المنازل والتشطيبات الداخلية بالكويت</image:title>
+    </image:image>
+
+    <!-- Image 2: Best Dyer -->
+    <image:image>
+      <image:loc>https://elhassan-dyer.com/img/best-painter-kuwait.png</image:loc>
+      <image:caption>خدمات الدهانات بالكويت مع أفضل صباغ متخصص بأعلى المعايير الفنية</image:caption>
+      <image:title>خدمات صباغة بجودة عالية وأسعار مناسبة في الكويت</image:title>
+    </image:image>
+
+    <!-- Image 3: Best Dyer -->
+    <image:image>
+      <image:loc>https://elhassan-dyer.com/img/painter-kuwait-advertisement.png</image:loc>
+      <image:caption>إعلان أفضل صباغ بالكويت يقدم خدمات تشطيبات ودهانات احترافية بأقل التكاليف</image:caption>
+      <image:title>إعلان خدمات صباغة حديثة وخصومات كبيرة في الكويت</image:title>
+    </image:image>
+  </url>
+
+  <!-- URL Entry for Discount Dyer Page -->
+  <url>
+    <loc>https://elhassan-dyer.com/discount-dyer.html</loc>
+    <lastmod>2025-01-09</lastmod>
+
+    <!-- Image 1: Discount Dyer -->
+    <image:image>
+      <image:loc>https://elhassan-dyer.com/img/kuwait-home-finishing-painting-service.png</image:loc>
+      <image:caption>صباغ بالكويت يقدم خصومات على خدمات التشطيبات الداخلية والخارجية مع جودة مضمونة</image:caption>
+      <image:title>تشطيبات مميزة مع خصم %50 على خدمات الصباغة بالكويت</image:title>
+    </image:image>
+
+    <!-- Image 2: Discount Dyer -->
+    <image:image>
+      <image:loc>https://elhassan-dyer.com/img/best-painter-kuwait.png</image:loc>
+      <image:caption>عروض وخصومات خاصة على خدمات الدهانات وتشطيبات الجدران في الكويت</image:caption>
+      <image:title>أفضل صباغ بالكويت بأسعار مخفضة وجودة عالية</image:title>
+    </image:image>
+
+    <!-- Image 3: Discount Dyer -->
+    <image:image>
+      <image:loc>https://elhassan-dyer.com/img/painter-kuwait-advertisement.png</image:loc>
+      <image:caption>إعلان خصومات تصل إلى %50 على خدمات الصباغة في الكويت مع ضمان العمل الاحترافي</image:caption>
+      <image:title>إعلان خصومات مذهلة على دهانات الجدران في الكويت</image:title>
+    </image:image>
+  </url>
+
+</urlset>
