@@ -83,4 +83,16 @@
     </image:image>
   </url>
 
+  <!-- URL Entry for New Page -->
+  <url>
+    <loc>https://elhassan-dyer.com/new.html</loc>
+    <lastmod>2025-06-25</lastmod>
+  </url>
+  
+  <!-- URL Entry for حولي Page -->
+  <url>
+    <loc>https://elhassan-dyer.com/حولي.html</loc>
+    <lastmod>2025-06-25</lastmod>
+  </url>
+
 </urlset>
