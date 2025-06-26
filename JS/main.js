@@ -24,11 +24,11 @@ const btnArabic = document.getElementById("btn-arabic"),
     btnEnglish2 = document.getElementById("btn-english2");
 
 // Event listeners for language buttons
-btnArabic.addEventListener("click", () => setLanguage("ar"));
-btnEnglish.addEventListener("click", () => setLanguage("en"));
+btnArabic?.addEventListener("click", () => setLanguage("ar"));
+btnEnglish?.addEventListener("click", () => setLanguage("en"));
 
-btnArabic2.addEventListener("click", () => setLanguage("ar"));
-btnEnglish2.addEventListener("click", () => setLanguage("en"));
+btnArabic2?.addEventListener("click", () => setLanguage("ar"));
+btnEnglish2?.addEventListener("click", () => setLanguage("en"));
 
 // Set initial language to Arabic
 setLanguage("ar");

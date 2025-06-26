@@ -94,5 +94,39 @@
     <loc>https://elhassan-dyer.com/حولي.html</loc>
     <lastmod>2025-06-25</lastmod>
   </url>
+ <!-- URL Entry for Dyer Page (Secondary) -->
+  <url>
+    <loc>https://elhassan-dyer.com/صباغ الجهراء/</loc>
+    <lastmod>2025-06-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
 
+  </url>
+
+  <!-- URL Entry for Dyer Page (Secondary) -->
+  <url>
+    <loc>https://elhassan-dyer.com/صباغ الاحمدي/</loc>
+    <lastmod>2025-06-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+
+  </url>
+
+  <!-- URL Entry for Dyer Page (Secondary) -->
+  <url>
+    <loc>https://elhassan-dyer.com/صباغ حولي/</loc>
+    <lastmod>2025-06-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+
+  </url>
+
+  <!-- URL Entry for Dyer Page (Secondary) -->
+  <url>
+    <loc>https://elhassan-dyer.com/صباغ مبارك/</loc>
+    <lastmod>2025-06-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+
+  </url>
 </urlset>
