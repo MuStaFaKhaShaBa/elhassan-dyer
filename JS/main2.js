@@ -12,7 +12,7 @@ function setLanguage(lang) {
     } else if (lang === 'ar') {
         elementsEn.forEach(el => el.classList.add('d-none'));
         elementsAr.forEach(el => el.classList.remove('d-none'));
-        document.title = `صباغ ورق جدران تركيب ورق جدران خصم %50 - اتصل الان 99508998`;
+        document.title = `صباغ ورق جدران تركيب ورق جدران خصم %50 - اتصل الان 55813155`;
     }
 }
 
