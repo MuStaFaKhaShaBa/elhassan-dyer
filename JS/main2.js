@@ -12,7 +12,7 @@ function setLanguage(lang) {
     } else if (lang === 'ar') {
         elementsEn.forEach(el => el.classList.add('d-none'));
         elementsAr.forEach(el => el.classList.remove('d-none'));
-        document.title = `صباغ ورق جدران تركيب ورق جدران خصم %50 - اتصل الان 55813155`;
+        // document.title = `صباغ ورق جدران تركيب ورق جدران خصم %50 - اتصل الان 55813155`;
     }
 }
 
@@ -30,7 +30,7 @@ btnArabic2.addEventListener("click", () => setLanguage("ar"));
 btnEnglish2.addEventListener("click", () => setLanguage("en"));
 
 // Set initial language to Arabic
-setLanguage("ar");
+// setLanguage("ar");
 
 
 
